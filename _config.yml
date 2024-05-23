@@ -1,8 +1,8 @@
 # Site settings
-title: Your Site Title
+title: Tay M
 description: Your site description
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://example.com" # The base hostname & protocol for your site
+url: "https://hbtasdem.github.io/taymarble/" # The base hostname & protocol for your site
 
 # Build settings
 theme: midnight # The Jekyll theme you want to use
